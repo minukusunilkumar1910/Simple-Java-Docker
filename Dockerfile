@@ -1,4 +1,4 @@
-# stable official Java runtime base image
+# stable official Java runtime base image / use eclipse for mini 
 # FROM openjdk:17-jdk-alpine
 FROM eclipse-temurin:17-jdk-alpine
 
